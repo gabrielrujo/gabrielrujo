@@ -18,8 +18,7 @@
 ### 📊 Estatísticas do GitHub
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielrujo&show_icons=true&theme=dark&hide_border=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gabrielrujo=anuraghazra\&layout=compact)
-
+ 
 </p>
 
 ---
